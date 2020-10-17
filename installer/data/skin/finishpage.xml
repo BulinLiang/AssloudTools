@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Windows>
+<!-- 完成 -->
+ <VerticalLayout >
+    <VerticalLayout width="480" height="250" roundcorner="5,5" bkimage="file='form\pic.png'">
+	
+	</VerticalLayout>
+	<VerticalLayout bkcolor="#FFFFFFFF" >	
+	<Button name="btnFinish" padding="160,50,0,0" text="安装完成" font="1.5" bkcolor="0xFF161616" textcolor="0xFFFFFFFF"  borderround="4,4" height="50" width="160" />
+	</VerticalLayout>
+ </VerticalLayout>
+</Windows>
